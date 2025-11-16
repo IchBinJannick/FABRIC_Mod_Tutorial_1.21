@@ -10,6 +10,7 @@
   "itemgroup.tutorialmod.tutorial_mod_blocks": "Tutorial Mod Blocks",
   "itemgroup.tutorialmod.tutorial_mod_consumables": "Tutorial Mod Consumables",
   "block.tutorialmod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.tutorialmod.pink_garnet_lamp": "Pink Garnet Lamp",
   "block.tutorialmod.pink_garnet_deepslate_ore": "Deepslate Pink Garnet Ore",
   "block.tutorialmod.magic_block": "Magic Block",
   "tooltip.tutorialmod.magic_block_tooltip": "This Block Performs §9Real§r Magic!",
