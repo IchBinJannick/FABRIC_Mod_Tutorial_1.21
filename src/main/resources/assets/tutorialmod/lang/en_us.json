@@ -15,5 +15,14 @@
   "tooltip.tutorialmod.magic_block_tooltip": "This Block Performs §9Real§r Magic!",
   "tooltip.tutorialmod.chisel.shift_down": "This Item Chisels Blocks Into Different Ones!",
   "tooltip.tutorialmod.chisel": "Press §eShift§r for more Information!",
-  "tooltip.tutorialmod.cauliflower": "This Is Delicous!"
+  "tooltip.tutorialmod.cauliflower": "This Is Delicous!",
+  "block.tutorialmod.pink_garnet_stairs": "Pink Garnet Stairs",
+  "block.tutorialmod.pink_garnet_slab": "Pink Garnet Slab",
+  "block.tutorialmod.pink_garnet_fence": "Pink Garnet Fence",
+  "block.tutorialmod.pink_garnet_wall": "Pink Garnet Wall",
+  "block.tutorialmod.pink_garnet_fence_gate": "Pink Garnet Fence Gate",
+  "block.tutorialmod.pink_garnet_door": "Pink Garnet Door",
+  "block.tutorialmod.pink_garnet_button": "Pink Garnet Button",
+  "block.tutorialmod.pink_garnet_pressure_plate": "Pink Garnet Pressure Plate",
+  "block.tutorialmod.pink_garnet_trapdoor": "Pink Garnet Trapdoor"
 }
