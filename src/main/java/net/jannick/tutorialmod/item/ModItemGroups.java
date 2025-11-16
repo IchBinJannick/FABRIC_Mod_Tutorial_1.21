@@ -36,6 +36,16 @@ public class ModItemGroups {
                         entries.add(ModBlocks.MAGIC_BLOCK);
                     }).build());
 
+    public static final ItemGroup TUTORIAL_MOD_CONSUMABLES_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(TutorialMod.MOD_ID, "tutorial_mod_consumables"),
+            FabricItemGroup.builder()
+                    .icon(() -> new ItemStack(ModItems.CAULIFLOWER))
+                    .displayName(Text.translatable("itemgroup.tutorialmod.tutorial_mod_consumables"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.CAULIFLOWER);
+                        entries.add(ModItems.STARLIGHT_ASHES);
+                    }).build());
+
     public static void registerItemGroups() {
         TutorialMod.LOGGER.info("Registering Item Group for: " + TutorialMod.MOD_ID);
     }
