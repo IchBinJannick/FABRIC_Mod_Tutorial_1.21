@@ -57,6 +57,19 @@ public class ModItemGroups {
                         entries.add(ModItems.STARLIGHT_ASHES);
                     }).build());
 
+    public static final ItemGroup TUTORIAL_MOD_WEAPONS_AND_TOOLS_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(TutorialMod.MOD_ID, "tutorial_mod_weapons_and_tools"),
+            FabricItemGroup.builder()
+                    .icon(() -> new ItemStack(ModItems.PINK_GARNET_AXE))
+                    .displayName(Text.translatable("itemgroup.tutorialmod.tutorial_mod_weapons_and_tools"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.PINK_GARNET_SWORD);
+                        entries.add(ModItems.PINK_GARNET_AXE);
+                        entries.add(ModItems.PINK_GARNET_PICKAXE);
+                        entries.add(ModItems.PINK_GARNET_SHOVEL);
+                        entries.add(ModItems.PINK_GARNET_HOE);
+                    }).build());
+
     public static void registerItemGroups() {
         TutorialMod.LOGGER.info("Registering Item Group for: " + TutorialMod.MOD_ID);
     }

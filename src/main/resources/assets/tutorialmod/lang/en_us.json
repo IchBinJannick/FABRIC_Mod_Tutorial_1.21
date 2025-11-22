@@ -4,19 +4,18 @@
   "item.tutorialmod.chisel": "Chisel",
   "item.tutorialmod.cauliflower": "Cauliflower",
   "item.tutorialmod.starlight_ashes": "Starligh Ashes",
+  "item.tutorialmod.pink_garnet_sword": "Pink Garnet Sword",
+  "item.tutorialmod.pink_garnet_pickaxe": "Pink Garnet Pickaxe",
+  "item.tutorialmod.pink_garnet_axe": "Pink Garnet Axe",
+  "item.tutorialmod.pink_garnet_shovel": "Pink Garnet Shovel",
+  "item.tutorialmod.pink_garnet_hoe": "Pink Garnet Hoe",
+
   "block.tutorialmod.pink_garnet_block": "Block of Pink Garnet",
   "block.tutorialmod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
-  "itemgroup.tutorialmod.tutorial_mod_items": "Tutorial Mod Items",
-  "itemgroup.tutorialmod.tutorial_mod_blocks": "Tutorial Mod Blocks",
-  "itemgroup.tutorialmod.tutorial_mod_consumables": "Tutorial Mod Consumables",
   "block.tutorialmod.pink_garnet_ore": "Pink Garnet Ore",
   "block.tutorialmod.pink_garnet_lamp": "Pink Garnet Lamp",
   "block.tutorialmod.pink_garnet_deepslate_ore": "Deepslate Pink Garnet Ore",
   "block.tutorialmod.magic_block": "Magic Block",
-  "tooltip.tutorialmod.magic_block_tooltip": "This Block Performs §9Real§r Magic!",
-  "tooltip.tutorialmod.chisel.shift_down": "This Item Chisels Blocks Into Different Ones!",
-  "tooltip.tutorialmod.chisel": "Press §eShift§r for more Information!",
-  "tooltip.tutorialmod.cauliflower": "This Is Delicous!",
   "block.tutorialmod.pink_garnet_stairs": "Pink Garnet Stairs",
   "block.tutorialmod.pink_garnet_slab": "Pink Garnet Slab",
   "block.tutorialmod.pink_garnet_fence": "Pink Garnet Fence",
@@ -25,5 +24,15 @@
   "block.tutorialmod.pink_garnet_door": "Pink Garnet Door",
   "block.tutorialmod.pink_garnet_button": "Pink Garnet Button",
   "block.tutorialmod.pink_garnet_pressure_plate": "Pink Garnet Pressure Plate",
-  "block.tutorialmod.pink_garnet_trapdoor": "Pink Garnet Trapdoor"
+  "block.tutorialmod.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
+
+  "tooltip.tutorialmod.magic_block_tooltip": "This Block Performs §9Real§r Magic!",
+  "tooltip.tutorialmod.chisel.shift_down": "This Item Chisels Blocks Into Different Ones!",
+  "tooltip.tutorialmod.chisel": "Press §eShift§r for more Information!",
+  "tooltip.tutorialmod.cauliflower": "This Is Delicous!",
+
+  "itemgroup.tutorialmod.tutorial_mod_items": "Tutorial Mod Items",
+  "itemgroup.tutorialmod.tutorial_mod_blocks": "Tutorial Mod Blocks",
+  "itemgroup.tutorialmod.tutorial_mod_consumables": "Tutorial Mod Consumables",
+  "itemgroup.tutorialmod.tutorial_mod_weapons_and_tools": "Tutorial Mod Weapons And Tools"
 }
